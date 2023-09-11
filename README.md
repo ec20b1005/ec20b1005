@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/hemanth14021854" target="blank"><img src="https://img.shields.io/twitter/follow/hemanth14021854?logo=twitter&style=for-the-badge" alt="hemanth14021854" /></a> </p>
 
-- 🔭 I’m currently working on **on Web development**
+- 🔭 I’m currently working **on Web development**
 
 - 🌱 I’m currently learning **Frameworks and becoming strong in it**
 
